@@ -25,7 +25,7 @@ and install the latest yarn version for your system.
 
 :horse_racing: Run this command to clone the repo, it shall install the app locally and change to its directory automatically:
 
-`git clone https://github.com/nas5w/typeofnan-javascript-quizzes typeofnan-javascript-quizzes && cd $_`
+`git clone https:https://github.com/edivya/JavaScript_Quizz
 
 ### 2. Install dependencies
 
