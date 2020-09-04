@@ -8,6 +8,7 @@ function getDirectories(path) {
     .map(dirent => dirent.name);
 }
 
+
 function init() {
   const agrs = process.argv.slice(2);
 
